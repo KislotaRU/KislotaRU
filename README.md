@@ -17,7 +17,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/></a>
+<img src="https://cdn.simpleicons.org/github/808080" width="40" height="40" alt="GitHub"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/></a>
 </p>
@@ -25,5 +25,4 @@
 
 ### 😱 **Моя статистика в GitHub**
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KislotaRU&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/KislotaRU/github-readme-stats#gh-dark-mode-only)
-
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=KislotaRU&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/KislotaRU/github-readme-stats#gh-light-mode-only)
