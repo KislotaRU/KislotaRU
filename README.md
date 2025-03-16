@@ -18,10 +18,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/></a>
 </p>
 
-### 🤡 **О себе**
-Увлекаюсь с 2017 года разработкой видеоигр. Сейчас изучаю **C#** для профессионального написания
-кода. 
-
 ### 😱 **Моя статистика в GitHub**
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KislotaRU&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/KislotaRU/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=KislotaRU&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/KislotaRU/github-readme-stats#gh-light-mode-only)
