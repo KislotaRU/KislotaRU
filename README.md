@@ -1,19 +1,37 @@
-# **<p align="center">Приветствую в своём профиле GitHub🤙</p>**
+![KislotaRU — C# / Unity Developer](assets/banner.svg)
 
-### 🚀 **Мой стек технологий**
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/></a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/></a>
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40" alt="Visual Studio"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.simpleicons.org/github/808080" width="40" height="40" alt="GitHub"/></a>
-</p>
+# KislotaRU
 
-### 😱 **Моя статистика в GitHub**
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KislotaRU&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/KislotaRU/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=KislotaRU&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/KislotaRU/github-readme-stats#gh-light-mode-only)
+### C# / Unity Developer
+
+Создаю видеоигры.
+
+## Технологии
+
+| Язык | Game Development | Инструменты |
+| :--- | :--------------- | :---------- |
+| `C#` | `Unity` | `Git` · `GitHub` · `VS Code` · `Visual Studio` · `YouGile` · `Codex` |
+
+## GitHub
+
+<details>
+<summary>Статистика профиля</summary>
+
+<br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=KislotaRU&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;title_color=9FEF00&amp;icon_color=9FEF00"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=KislotaRU&amp;show_icons=true&amp;hide_border=true&amp;title_color=4F7D00&amp;icon_color=4F7D00"
+  >
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KislotaRU&amp;show_icons=true&amp;hide_border=true"
+    alt="KislotaRU GitHub stats"
+  >
+</picture>
+
+</details>
